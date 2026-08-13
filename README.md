@@ -1,7 +1,7 @@
 
 # Hi, I'm Nate 👋
 
-I'm a Cybersecurity student at UTSA graduating in December 2026.
+I'm a Cybersecurity student from San Antonio attending UTSA and I plan to graduate in December 2026.
 
 ## Currently Learning
 
@@ -9,7 +9,7 @@ I'm a Cybersecurity student at UTSA graduating in December 2026.
 - Linux
 - Networking
 - Virtualization
-- Python
+- Python automation
 
 ## Current Projects
 
@@ -21,12 +21,10 @@ I'm a Cybersecurity student at UTSA graduating in December 2026.
 
 - Earn Network+
 - Earn Security+
-- Build a home lab
-- Land a cybersecurity internship
+- Build a home lab and NAS
+- Land a cybersecurity internship or entry level position
 
-## Technologies
-
-- Linux
-- Windows
-- PowerShell
-- VirtualBox (or VMware)
+## Fun Facts 
+- I love photography
+- I have two dogs (beagle and shitzu)
+- I have collected and cataloged over 200 vinyl records
